@@ -1,0 +1,5 @@
+
+Such an Airline Management System Interface should include entities like Flight, 
+Airport, Weather, Meal Service, etc. The interpretation depends on how you think 
+about the system’s design and about the features/constraints an Airline Management 
+System would have (e.g., timetable, airport availability, weather conditions).

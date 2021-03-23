@@ -1,0 +1,23 @@
+[
+    {
+        "data": {
+            "booking_id": "ec75f9ee-c1a7-4ca4-8098-2d02b6637d3d",
+            "arrival_iata": "JFK",
+            "departure_date": "23-03-2021",
+            "departure_time": "21:15",
+            "arrival_date": "24-03-2021",
+            "arrival_time": "11:15",
+            "departure_iata": "BLR",
+            "airline_code": "6E",
+            "passengers": {
+                "adult": 2,
+                "children": 1,
+                "infant": 1
+            },
+            "seat_class": "economy",
+            "currency": "INR",
+            "total_amount": 7000,
+            "booked_agency": "yatra.com"
+        }
+    }
+]

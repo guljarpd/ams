@@ -1,0 +1,74 @@
+[
+    {
+        "name": "Chang An Airlines",
+        "code": "9H",
+        "seats": {
+            "total": {
+                "economy": 60,
+                "business": 20
+            },
+            "available": {
+                "economy": 40,
+                "business": 9
+            }
+        },
+        "meals": {
+            "economy": "PAID",
+            "business": "FREE"
+        }
+    },
+    {
+        "name": "Southern Air",
+        "code": "9R",
+        "seats": {
+            "total": {
+                "economy": 100,
+                "business": 30
+            },
+            "available": {
+                "economy": 70,
+                "business": 30
+            }
+        },
+        "meals": {
+            "economy": "FREE",
+            "business": "FREE"
+        }
+    },
+    {
+        "name": "Jet Airways",
+        "code": "9W",
+        "seats": {
+            "total": {
+                "economy": 120,
+                "business": 5
+            },
+            "available": {
+                "economy": 40,
+                "business": 9
+            }
+        },
+        "meals": {
+            "economy": "",
+            "business": ""
+        }
+    },
+    {
+        "name": "IndiGo",
+        "code": "6E",
+        "seats": {
+            "total": {
+                "economy": 70,
+                "business": 20
+            },
+            "available": {
+                "economy": 48,
+                "business": 19
+            }
+        },
+        "meals": {
+            "economy": "FREE",
+            "business": "FREE"
+        }
+    }
+]

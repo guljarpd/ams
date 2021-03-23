@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Heathrow",
+        "city": "London",
+        "country": "United Kingdom",
+        "iata_code": "LHR",
+        "loc": {
+            "lat": 51.4775,
+            "lng": -0.461389
+        }
+    },
+    {
+        "name": "Bangalore",
+        "city": "Bangalore",
+        "country": "India",
+        "iata_code": "BLR",
+        "loc": {
+            "lat": 12.949986,
+            "lng": 77.668206
+        }
+    },
+    {
+        "name": "John F Kennedy Intl",
+        "city": "New York",
+        "country": "United States",
+        "iata_code": "JFK",
+        "loc": {
+            "lat": 40.639751,
+            "lng": -73.778925
+        }
+    }
+]
