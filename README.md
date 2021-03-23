@@ -17,6 +17,8 @@ Get all runnig/avilailable fight list
 
 `http://127.0.0.1:8181/airline/list`
 
+METHOD: `GET`
+
 OUTPUT
 ```json
 {
@@ -86,6 +88,8 @@ OUTPUT
 Create Booking
 
 `http://127.0.0.1:8181/airline/book`
+
+METHOD: `POST`
 
 POST BODY
 
