@@ -87,6 +87,30 @@ Create Booking
 
 `http://127.0.0.1:8181/airline/book`
 
+POST BODY
+
+```json
+{
+    "departure_iata": "BLR",
+    "arrival_iata": "JFK",
+    "departure_date": "23-03-2021",
+    "departure_time": "21:15",
+    "arrival_date": "24-03-2021",
+    "arrival_time": "11:15",
+    "airline_code": "6E",
+    "passengers": {
+        "adult": 2,
+        "children": 1,
+        "infant": 1
+    },
+    "seat_class": "economy",
+    "currency": "INR",
+    "total_amount": 7000.00,
+    "booked_agency": "yatra.com"
+}
+```
+
+
 OUTPUT
 
 ```json
